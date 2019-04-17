@@ -10,13 +10,11 @@ header {
 
 ol {
   border: 1.5px solid black;
-  font-family: NanumGothicCoding, sans-serif;
+  font-family: "Nanum Gothic Coding", sans-serif;
   font-size: 30px;
   margins: 20px;  
 }
 
-body {background-color: #FFFFF7;}
-/*above is your background color.*/
 
 #banner .content h1 {
 border: 3px solid black;
@@ -44,7 +42,7 @@ h1 {
 }
 
 h1 {
-  font-family: "NanumGothicCoding";
+  font-family: "Nanum Gothic Coding";
   font-weight: normal;
   font-size: 60px;
   padding: 50px;
